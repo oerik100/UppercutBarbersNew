@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Fanwood Text
+font link: https://fonts.google.com/specimen/Fanwood+Text
+font author: Barry Schwartz
+font author site: http://crudfactory.com/
+
+
+icon designer: Ben Davis
+icon designer link: /smashicons
+        
+{"bg":"#D5D7F1","icon-gradient-0":"#0D2175","icon-gradient-1":"#1F1EFB","font":"#0F104F","slogan":"#232463"}
+      
